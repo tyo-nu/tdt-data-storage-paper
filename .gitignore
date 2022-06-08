@@ -1,0 +1,33 @@
+# jupyter checkpoints
+.ipynb_checkpoints
+
+# python cache
+__pycache__
+
+# Raw files/images for figures
+*.ai
+*.svg
+preliminary_figures
+Supp_Figs.pptx
+
+# Drafts and submissions
+04 Manuscript Drafts
+05 Submissions
+
+# Excel versions of CSVs
+02 Analyzed data/_decodingResources/*.xlsx
+
+# turtles files not needed
+02 Analyzed data/turtles/README.md
+02 Analyzed data/turtles/turtles_utils_bcKludge.py
+filter_and_trim_TdT.sh
+requirements.txt
+
+# other files not included in this manuscript
+decodedMessage_2.xlsx
+Amplification_Bias_Check_Hello_World_2.ipynb
+Message_Decoding_Hello_World_2.ipynb
+20220407_pooled_data
+
+# Due to size of raw data, ignore for GitHub (available upon request and via SRA)
+01 Raw data
